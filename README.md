@@ -23,6 +23,9 @@ If you have requirement for a different partition, please open an issue and let'
 > You will not find instructions on how to enable log on determined AWS service.  
 > To enable it, check AWS service documentation.
 
+* [AWS WAF v2](/wafv2/)
+* [Route 53 Resolver](/route53-resolver/)
+
 
 ## Security
 
