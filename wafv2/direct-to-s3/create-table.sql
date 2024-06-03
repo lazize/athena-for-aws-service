@@ -11,7 +11,7 @@
 -- SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 --
 -- For LICENSE information, plese check the source repository:
--- https://github.com/lazize/aws-cli-helper
+-- https://github.com/lazize/athena-for-aws-service
 --
 -- The opinions expressed in this repository and code are my own and not necessarily those of my employer (past, present and future).
 
